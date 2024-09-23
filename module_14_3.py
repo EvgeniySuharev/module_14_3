@@ -9,7 +9,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import Message, FSInputFile
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token='7453938912:AAGeKNqdMt1VDl9lIP9KuV5nI0bae3427UA')
+bot = Bot(token='')
 dp = Dispatcher()
 router = Router()
 
